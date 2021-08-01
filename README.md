@@ -1,4 +1,4 @@
 # project-quick
 
 
-https://sakhawathossainonly.github.io/project-quick/
+https://mshossainonly.github.io/project-quick/
